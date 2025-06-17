@@ -151,12 +151,5 @@ You can edit this file manually or add stocks using the CLI.
 
 ## 🧑‍💻 Author
 
-Developed by **Harsh Thakur**  
-GitHub: [your-github-link]  
-Project: For Resume + Real-Time API Project Showcase 💼
+Developed by **Akul Agarwal**  
 
----
-
-## 📜 License
-
-This project is open source under the MIT License.
